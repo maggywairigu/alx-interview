@@ -41,7 +41,6 @@ By reviewing these concepts and utilizing these resources, you will be well-equi
 ### Tasks
 #### 0. Lockboxes
 - **Mandatory**
-- **Score:** 0.0% (Checks completed: 0.0%)
 - **You have n number of locked boxes in front of you. Each box is numbered sequentially from 0 to n - 1 and each box may contain keys to the other boxes.**
 - **Write a method that determines if all the boxes can be opened.**
   - Prototype: `def canUnlockAll(boxes)`
